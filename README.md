@@ -29,24 +29,19 @@ Antes de iniciar o projeto, certifique-se de ter as seguintes dependências inst
 ## Configuração
 
 1. Clone o repositório para o seu ambiente local.
-
-\`\`\`bash
 git clone <https://github.com/KevynMurilo/ApiPicture.git>
-\`\`\`
+
 
 2. Instale as dependências do projeto.
-
-\`\`\`bash
 npm install
-\`\`\`
+
 
 3. Crie um arquivo .env na raiz do projeto e configure as variáveis de ambiente necessárias (consulte o arquivo .env.example para referência).
 
-4. Inicie o servidor.
 
-\`\`\`bash
+4. Inicie o servidor.
 node app.js
-\`\`\`
+
 
 O servidor será iniciado e estará acessível em http://localhost:4000.
 
